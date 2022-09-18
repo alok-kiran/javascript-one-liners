@@ -1,0 +1,19 @@
+{
+  "name": "javascript-one-liners",
+  "version": "1.0.0",
+  "description": "This repo has most common one liners util functions in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alok-kiran/javascript-one-liners.git"
+  },
+  "author": "Alok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alok-kiran/javascript-one-liners/issues"
+  },
+  "homepage": "https://github.com/alok-kiran/javascript-one-liners#readme"
+}
